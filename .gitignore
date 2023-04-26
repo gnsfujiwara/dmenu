@@ -1,0 +1,6 @@
+dmenu
+dmenu-*.tar.gz
+stest
+*.o
+config.h
+patches/

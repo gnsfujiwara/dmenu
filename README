@@ -19,6 +19,20 @@ Afterwards enter the following command to build and install dmenu
     make clean install
 
 
+Patches
+-------
+The following patches are applied:
+
+    dmenu-border-5.2.diff
+    dmenu-center-5.2.diff
+    dmenu-fuzzyhighlight-4.9.diff
+    dmenu-fuzzymatch-4.9.diff
+    dmenu-mousesupport-5.2.diff
+    dmenu-mousesupport-motion-5.2.diff
+    dmenu-numbers-20220512-28fb3e2.diff
+    dmenu-xresources-alt-5.0.diff
+
+
 Running dmenu
 -------------
 See the man page for details.
