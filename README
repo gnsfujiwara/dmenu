@@ -33,6 +33,24 @@ The following patches are applied:
     dmenu-xresources-alt-5.0.diff
 
 
+Resources
+---------
+This fork of dmenu is configured via Xresources:
+
+    dmenu.font
+    dmenu.normbgcolor
+    dmenu.normfgcolor
+    dmenu.selbgcolor
+    dmenu.selfgcolor
+    dmenu.normhlbgcolor
+    dmenu.normhlfgcolor
+    dmenu.selhlbgcolor
+    dmenu.selhlfgcolor
+    dmenu.centered
+    dmenu.lines
+    dmenu.border_width
+
+
 Running dmenu
 -------------
 See the man page for details.

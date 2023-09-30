@@ -1114,7 +1114,7 @@ main(int argc, char *argv[])
 
 	XrmInitialize();
 	load_xresources();
-	
+
 	for (i = 1; i < argc; i++)
 		/* these options take no arguments */
 		if (!strcmp(argv[i], "-v")) {      /* prints version information */
